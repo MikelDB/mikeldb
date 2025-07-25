@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm **Mikel Díez**, a software developer based in Cardiff, Wales.
+I'm **Mikel Díez Buil**, a software developer based in Cardiff, Wales.
 
 ### 🏢 Organizations
 
